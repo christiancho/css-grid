@@ -1,2 +1,3 @@
-# css-grid
-Repo for experiments with the upcoming CSS grid
+# CSS Grid Experiments
+
+CSS grid is an unreleased CSS display option. Scheduled for shipping by Mozilla and Google in March 2017, it will offer much more flexibility with a responsive, grid-based display system. To view any examples in this repo, use [Chrome Canary](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi8pIru2MzRAhWB0YMKHUZnAt4QFggcMAA&url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2Fcanary.html&usg=AFQjCNHp17ks0oqhFLd7PJlK2ArwcYCcAg&sig2=O_E7RKwlJ2BjoVgqcSlvEg) or [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/).
